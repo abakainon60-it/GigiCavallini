@@ -1,11 +1,18 @@
-# GigiCavallini<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
 <title>Orologio Gigi Cavallini</title>
 <style>
-  body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
-  #timer { font-size: 2em; font-weight: bold; }
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  #timer {
+    font-size: 2em;
+    font-weight: bold;
+  }
 </style>
 </head>
 <body>
@@ -15,7 +22,7 @@
 
 <script>
   // Imposta qui la data di partenza
-  const startDate = new Date("2025-12-15T00:00:00");
+  const startDate = new Date("2025-12-06T00:00:00");
 
   function updateTimer() {
     const now = new Date();
