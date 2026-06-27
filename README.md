@@ -1,4 +1,4 @@
-# GigiCavallini isolamento dal 06/11/25
+# Gilbrto Cavallini in isolamento h 24 dal 06/11/25
 <html lang="it">
 <head>
 <meta charset="UTF-8">
