@@ -1,4 +1,4 @@
-# GigiCavallini<!DOCTYPE html>
+# GigiCavallini isolamento dal 06/11/25
 <html lang="it">
 <head>
 <meta charset="UTF-8">
